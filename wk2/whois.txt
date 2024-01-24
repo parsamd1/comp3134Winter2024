@@ -1,0 +1,922 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.cira.ca
+
+domain:       CA
+
+organisation: Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+
+contact:      administrative
+name:         Chief Information Officer
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       chief.information.officer@cira.ca
+
+contact:      technical
+name:         DNS Admin
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       admin-dns@cira.ca
+
+nserver:      ANY.CA-SERVERS.CA 199.4.144.2 2001:500:a7:0:0:0:0:2
+nserver:      C.CA-SERVERS.CA 185.159.196.2 2620:10a:8053:0:0:0:0:2
+nserver:      D.CA-SERVERS.CA 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
+ds-rdata:     18560 13 2 86ec28ed5bff076186306dc8ce3b4e3ec0433d9d5d34c7ca8dac7b1934e8b324
+
+whois:        whois.cira.ca
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cira.ca/
+
+created:      1987-05-14
+changed:      2023-09-19
+source:       IANA
+
+# whois.cira.ca
+
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2024-01-20T16:01:37Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2024-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: Omid Fekri
+Registrant Organization: George Brown College
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: omid.fekri@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Omid Fekri
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax:
+Admin Fax Ext:
+Admin Email: omid.fekri@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax:
+Tech Fax Ext:
+Tech Email: dgrunberg@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-01-24T16:34:51Z <<<
+
+# whois.ca.fury.ca
+
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2024-01-20T16:01:37Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2024-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: Omid Fekri
+Registrant Organization: George Brown College
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: omid.fekri@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Omid Fekri
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax:
+Admin Fax Ext:
+Admin Email: omid.fekri@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax:
+Tech Fax Ext:
+Tech Email: dgrunberg@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-01-24T16:34:51Z <<<
+
+-------------------------------------------------------------------------------------------------------------------------
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2023-12-07
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: SMYRNAHALIFAX.COM
+   Registry Domain ID: 2800826888_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2023-08-01T22:15:54Z
+   Creation Date: 2023-07-25T16:25:20Z
+   Registry Expiry Date: 2024-07-25T16:25:20Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SITEGROUND.NET
+   Name Server: NS2.SITEGROUND.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2024-01-24T16:36:25Z <<<
+
+# whois.squarespace.domains
+
+Domain Name: smyrnahalifax.com
+Registry Domain ID: 2800826888_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.squarespace.domains
+Registrar URL: https://domains2.squarespace.com
+Updated Date: 2023-08-01T22:15:54Z
+Creation Date: 2023-07-25T16:25:20Z
+Registrar Registration Expiration Date: 2024-07-25T16:25:20Z
+Registrar: Squarespace Domains II LLC
+Registrar IANA ID: 895
+Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+Registrar Abuse Contact Phone: +1.646-693-5324
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: Contact Privacy Inc. Customer 7151571251
+Registrant Organization: Contact Privacy Inc. Customer 7151571251
+Registrant Street: 96 Mowat Ave
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M4K 3K1
+Registrant Country: CA
+Registrant Phone: +1.4165385487
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: https://domains.google.com/contactregistrant?domain=smyrnahalifax.com
+Registry Admin ID:
+Admin Name: Contact Privacy Inc. Customer 7151571251
+Admin Organization: Contact Privacy Inc. Customer 7151571251
+Admin Street: 96 Mowat Ave
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M4K 3K1
+Admin Country: CA
+Admin Phone: +1.4165385487
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: https://domains.google.com/contactregistrant?domain=smyrnahalifax.com
+Registry Tech ID:
+Tech Name: Contact Privacy Inc. Customer 7151571251
+Tech Organization: Contact Privacy Inc. Customer 7151571251
+Tech Street: 96 Mowat Ave
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M4K 3K1
+Tech Country: CA
+Tech Phone: +1.4165385487
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: https://domains.google.com/contactregistrant?domain=smyrnahalifax.com
+Name Server: NS1.SITEGROUND.NET
+Name Server: NS2.SITEGROUND.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-01-24T16:35:43.960148Z <<<
+
+-------------------------------------------------------------------------------------------------------------
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.cira.ca
+
+domain:       CA
+
+organisation: Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+
+contact:      administrative
+name:         Chief Information Officer
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       chief.information.officer@cira.ca
+
+contact:      technical
+name:         DNS Admin
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       admin-dns@cira.ca
+
+nserver:      ANY.CA-SERVERS.CA 199.4.144.2 2001:500:a7:0:0:0:0:2
+nserver:      C.CA-SERVERS.CA 185.159.196.2 2620:10a:8053:0:0:0:0:2
+nserver:      D.CA-SERVERS.CA 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
+ds-rdata:     18560 13 2 86ec28ed5bff076186306dc8ce3b4e3ec0433d9d5d34c7ca8dac7b1934e8b324
+
+whois:        whois.cira.ca
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cira.ca/
+
+created:      1987-05-14
+changed:      2023-09-19
+source:       IANA
+
+# whois.cira.ca
+
+Domain Name: torontomu.ca
+Registry Domain ID: 105584616-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.rebel.ca
+Updated Date: 2022-06-28T22:16:20Z
+Creation Date: 2022-01-29T22:27:29Z
+Registry Expiry Date: 2025-01-29T22:27:29Z
+Registrar: Rebel.ca Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 105606652-CIRA
+Registrant Name: Ryerson University
+Registrant Organization:
+Registrant Street: 350 Victoria St
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5B2K3
+Registrant Country: CA
+Registrant Phone: +1.4169795000
+Registrant Phone Ext: 4050
+Registrant Fax: +1.4169795220
+Registrant Fax Ext:
+Registrant Email: noc@ryerson.ca
+Registry Admin ID: 106439286-CIRA
+Admin Name: Ryerson University
+Admin Organization: Ryerson University
+Admin Street: 350 Victoria St
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5B2K3
+Admin Country: CA
+Admin Phone: +1.4169795000
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: noc@ryerson.ca
+Registry Tech ID: 26260534-CIRA
+Tech Name: Ken Connell
+Tech Organization: Ryerson University
+Tech Street: 350 Victoria Street
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5B2K3
+Tech Country: CA
+Tech Phone: +1.4169795000
+Tech Phone Ext:
+Tech Fax: +1.4169795220
+Tech Fax Ext:
+Tech Email: noc@ryerson.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-01-24T16:38:14Z <<<
+
+# whois.ca.fury.ca
+
+Domain Name: torontomu.ca
+Registry Domain ID: 105584616-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.rebel.ca
+Updated Date: 2022-06-28T22:16:20Z
+Creation Date: 2022-01-29T22:27:29Z
+Registry Expiry Date: 2025-01-29T22:27:29Z
+Registrar: Rebel.ca Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 105606652-CIRA
+Registrant Name: Ryerson University
+Registrant Organization:
+Registrant Street: 350 Victoria St
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5B2K3
+Registrant Country: CA
+Registrant Phone: +1.4169795000
+Registrant Phone Ext: 4050
+Registrant Fax: +1.4169795220
+Registrant Fax Ext:
+Registrant Email: noc@ryerson.ca
+Registry Admin ID: 106439286-CIRA
+Admin Name: Ryerson University
+Admin Organization: Ryerson University
+Admin Street: 350 Victoria St
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5B2K3
+Admin Country: CA
+Admin Phone: +1.4169795000
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: noc@ryerson.ca
+Registry Tech ID: 26260534-CIRA
+Tech Name: Ken Connell
+Tech Organization: Ryerson University
+Tech Street: 350 Victoria Street
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5B2K3
+Tech Country: CA
+Tech Phone: +1.4169795000
+Tech Phone Ext:
+Tech Fax: +1.4169795220
+Tech Fax Ext:
+Tech Email: noc@ryerson.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-01-24T16:38:14Z <<<
+
+-----------------------------------------------------------------------------------------------------
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.cira.ca
+
+domain:       CA
+
+organisation: Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+
+contact:      administrative
+name:         Chief Information Officer
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       chief.information.officer@cira.ca
+
+contact:      technical
+name:         DNS Admin
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       admin-dns@cira.ca
+
+nserver:      ANY.CA-SERVERS.CA 199.4.144.2 2001:500:a7:0:0:0:0:2
+nserver:      C.CA-SERVERS.CA 185.159.196.2 2620:10a:8053:0:0:0:0:2
+nserver:      D.CA-SERVERS.CA 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
+ds-rdata:     18560 13 2 86ec28ed5bff076186306dc8ce3b4e3ec0433d9d5d34c7ca8dac7b1934e8b324
+
+whois:        whois.cira.ca
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cira.ca/
+
+created:      1987-05-14
+changed:      2023-09-19
+source:       IANA
+
+# whois.cira.ca
+
+Domain Name: york.ca
+Registry Domain ID: D240691-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://help.opensrs.com/hc/en-us
+Updated Date: 2023-12-19T04:52:40Z
+Creation Date: 2004-09-27T14:18:20Z
+Registry Expiry Date: 2025-09-20T04:00:00Z
+Registrar: Tucows.com Co.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: compliance@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 85437523-CIRA
+Registrant Name: DNS Admin
+Registrant Organization: The Regional Municipality of York
+Registrant Street: The Regional Municipality of York, 17250 Yonge Street
+Registrant City: Newmarket
+Registrant State/Province: ON
+Registrant Postal Code: L3Y6Z1
+Registrant Country: CA
+Registrant Phone: +1.9058304444
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: dnsadmin@york.ca
+Registry Admin ID: 85437522-CIRA
+Admin Name: DNS Admin
+Admin Organization: The Regional Municipality of York
+Admin Street: The Regional Municipality of York, 17250 Yonge Street
+Admin City: Newmarket
+Admin State/Province: ON
+Admin Postal Code: L3Y6Z1
+Admin Country: CA
+Admin Phone: +1.9058304444
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: dnsadmin@york.ca
+Registry Tech ID: 85437520-CIRA
+Tech Name: DNS Admin
+Tech Organization: The Regional Municipality of York
+Tech Street: The Regional Municipality of York, 17250 Yonge Street
+Tech City: Newmarket
+Tech State/Province: ON
+Tech Postal Code: L3Y6Z1
+Tech Country: CA
+Tech Phone: +1.9058304444
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: dnsadmin@york.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.york.ca
+Name Server: ns2.york.ca
+Name Server: ns3.york.ca
+Name Server: ns4.york.ca
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-01-24T16:39:20Z <<<
+
+# whois.ca.fury.ca
+
+Domain Name: york.ca
+Registry Domain ID: D240691-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://help.opensrs.com/hc/en-us
+Updated Date: 2023-12-19T04:52:40Z
+Creation Date: 2004-09-27T14:18:20Z
+Registry Expiry Date: 2025-09-20T04:00:00Z
+Registrar: Tucows.com Co.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: compliance@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 85437523-CIRA
+Registrant Name: DNS Admin
+Registrant Organization: The Regional Municipality of York
+Registrant Street: The Regional Municipality of York, 17250 Yonge Street
+Registrant City: Newmarket
+Registrant State/Province: ON
+Registrant Postal Code: L3Y6Z1
+Registrant Country: CA
+Registrant Phone: +1.9058304444
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: dnsadmin@york.ca
+Registry Admin ID: 85437522-CIRA
+Admin Name: DNS Admin
+Admin Organization: The Regional Municipality of York
+Admin Street: The Regional Municipality of York, 17250 Yonge Street
+Admin City: Newmarket
+Admin State/Province: ON
+Admin Postal Code: L3Y6Z1
+Admin Country: CA
+Admin Phone: +1.9058304444
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: dnsadmin@york.ca
+Registry Tech ID: 85437520-CIRA
+Tech Name: DNS Admin
+Tech Organization: The Regional Municipality of York
+Tech Street: The Regional Municipality of York, 17250 Yonge Street
+Tech City: Newmarket
+Tech State/Province: ON
+Tech Postal Code: L3Y6Z1
+Tech Country: CA
+Tech Phone: +1.9058304444
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: dnsadmin@york.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.york.ca
+Name Server: ns2.york.ca
+Name Server: ns3.york.ca
+Name Server: ns4.york.ca
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-01-24T16:39:20Z <<<
+
+----------------------------------------------------------------------------------------------------------
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.cira.ca
+
+domain:       CA
+
+organisation: Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+
+contact:      administrative
+name:         Chief Information Officer
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       chief.information.officer@cira.ca
+
+contact:      technical
+name:         DNS Admin
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       admin-dns@cira.ca
+
+nserver:      ANY.CA-SERVERS.CA 199.4.144.2 2001:500:a7:0:0:0:0:2
+nserver:      C.CA-SERVERS.CA 185.159.196.2 2620:10a:8053:0:0:0:0:2
+nserver:      D.CA-SERVERS.CA 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
+ds-rdata:     18560 13 2 86ec28ed5bff076186306dc8ce3b4e3ec0433d9d5d34c7ca8dac7b1934e8b324
+
+whois:        whois.cira.ca
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cira.ca/
+
+created:      1987-05-14
+changed:      2023-09-19
+source:       IANA
+
+# whois.cira.ca
+
+Domain Name: utoronto.ca
+Registry Domain ID: D1782-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.rebel.ca
+Updated Date: 2022-01-06T18:00:37Z
+Creation Date: 2000-09-28T14:01:07Z
+Registry Expiry Date: 2031-03-02T05:00:00Z
+Registrar: Rebel.ca Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 18785276-CIRA
+Registrant Name: University Toronto
+Registrant Organization:
+Registrant Street: 4 Bancroft Avenue,  Room 102
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5S1C1
+Registrant Country: CA
+Registrant Phone: +1.4169780470
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: russell.sutherland@utoronto.ca
+Registry Admin ID: 2026370-CIRA
+Admin Name: Abuse Contact
+Admin Organization: University of Toronto
+Admin Street: 4 Bancroft Ave.
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5S1C1
+Admin Country: CA
+Admin Phone: +1.4169780470
+Admin Phone Ext:
+Admin Fax: +1.4169786620
+Admin Fax Ext:
+Admin Email: abuse@utoronto.ca
+Registry Tech ID: C851155-CIRA
+Tech Name: Russell Sutherland
+Tech Organization: University of Toronto
+Tech Street: 4 Bancroft Ave.
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5S1C1
+Tech Country: CA
+Tech Phone: +1.4169780470
+Tech Phone Ext:
+Tech Fax: +1.4169786620
+Tech Fax Ext:
+Tech Email: russell.sutherland@utoronto.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-01-24T16:40:13Z <<<
+
+# whois.ca.fury.ca
+
+Domain Name: utoronto.ca
+Registry Domain ID: D1782-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.rebel.ca
+Updated Date: 2022-01-06T18:00:37Z
+Creation Date: 2000-09-28T14:01:07Z
+Registry Expiry Date: 2031-03-02T05:00:00Z
+Registrar: Rebel.ca Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 18785276-CIRA
+Registrant Name: University Toronto
+Registrant Organization:
+Registrant Street: 4 Bancroft Avenue,  Room 102
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5S1C1
+Registrant Country: CA
+Registrant Phone: +1.4169780470
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: russell.sutherland@utoronto.ca
+Registry Admin ID: 2026370-CIRA
+Admin Name: Abuse Contact
+Admin Organization: University of Toronto
+Admin Street: 4 Bancroft Ave.
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5S1C1
+Admin Country: CA
+Admin Phone: +1.4169780470
+Admin Phone Ext:
+Admin Fax: +1.4169786620
+Admin Fax Ext:
+Admin Email: abuse@utoronto.ca
+Registry Tech ID: C851155-CIRA
+Tech Name: Russell Sutherland
+Tech Organization: University of Toronto
+Tech Street: 4 Bancroft Ave.
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5S1C1
+Tech Country: CA
+Tech Phone: +1.4169780470
+Tech Phone Ext:
+Tech Fax: +1.4169786620
+Tech Fax Ext:
+Tech Email: russell.sutherland@utoronto.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-01-24T16:40:13Z <<<
+
