@@ -1,0 +1,10 @@
+05:40:07.637590 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 909051991:909052099, ack 2932565730, win 501, options [nop,nop,TS val 1405129288 ecr 260236886], length 108
+05:40:07.637706 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 108:264, ack 1, win 501, options [nop,nop,TS val 1405129289 ecr 260236886], length 156
+05:40:07.637758 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 264:332, ack 1, win 501, options [nop,nop,TS val 1405129289 ecr 260236886], length 68
+05:40:07.637800 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 332:368, ack 1, win 501, options [nop,nop,TS val 1405129289 ecr 260236886], length 36
+05:40:07.639266 IP bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 0, win 2047, options [nop,nop,TS val 260236903 ecr 1405129282], length 0
+05:40:07.645006 IP bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 2042, options [nop,nop,TS val 260236909 ecr 1405129289], length 0
+05:40:07.866726 IP 221.163.124.200.34244 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 685566281:685566297, ack 2204213488, win 537, options [nop,nop,TS val 3936924507 ecr 3160107348], length 16
+05:40:07.910739 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 221.163.124.200.34244: Flags [.], ack 16, win 504, options [nop,nop,TS val 3160109748 ecr 3936924507], length 0
+05:40:08.124711 IP 221.163.124.200.34244 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 16:80, ack 1, win 537, options [nop,nop,TS val 3936924764 ecr 3160109748], length 64
+05:40:08.124762 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 221.163.124.200.34244: Flags [.], ack 80, win 504, options [nop,nop,TS val 3160109962 ecr 3936924764], length 0

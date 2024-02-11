@@ -1,0 +1,5 @@
+05:47:23.732377 IP bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 952172739, win 2699, options [nop,nop,TS val 260673012 ecr 1405565378], length 0
+05:47:23.733898 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 1:45, ack 0, win 501, options [nop,nop,TS val 1405565385 ecr 260673012], length 44
+05:47:23.733974 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 45:97, ack 0, win 501, options [nop,nop,TS val 1405565385 ecr 260673012], length 52
+05:47:23.734193 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 97:269, ack 0, win 501, options [nop,nop,TS val 1405565385 ecr 260673012], length 172
+05:47:23.741430 IP bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 269, win 2696, options [nop,nop,TS val 260673021 ecr 1405565385], length 0

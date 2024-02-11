@@ -1,0 +1,15 @@
+05:48:21.508454 IP 165.227.43.214.22 > 70.50.27.35.56562: Flags [P.], seq 952248023:952248131, ack 2932600802, win 501, options [nop,nop,TS val 1405623159 ecr 260730783], length 108
+05:48:21.508558 IP 165.227.43.214.22 > 70.50.27.35.56562: Flags [P.], seq 108:264, ack 1, win 501, options [nop,nop,TS val 1405623159 ecr 260730783], length 156
+05:48:21.508595 IP 165.227.43.214.22 > 70.50.27.35.56562: Flags [P.], seq 264:332, ack 1, win 501, options [nop,nop,TS val 1405623159 ecr 260730783], length 68
+05:48:21.508626 IP 165.227.43.214.22 > 70.50.27.35.56562: Flags [P.], seq 332:368, ack 1, win 501, options [nop,nop,TS val 1405623159 ecr 260730783], length 36
+05:48:21.509343 IP 70.50.27.35.56562 > 165.227.43.214.22: Flags [.], ack 0, win 2699, options [nop,nop,TS val 260730790 ecr 1405623154], length 0
+05:48:21.514357 IP 70.50.27.35.56562 > 165.227.43.214.22: Flags [.], ack 368, win 2694, options [nop,nop,TS val 260730795 ecr 1405623159], length 0
+05:48:22.004881 IP 89.248.165.17.52281 > 165.227.43.214.14459: Flags [S], seq 4235961871, win 1025, options [mss 1460], length 0
+05:48:38.219540 IP 62.204.41.128.46177 > 165.227.43.214.55536: Flags [S], seq 1623677033, win 1024, length 0
+05:48:47.151473 IP 35.203.211.252.51195 > 165.227.43.214.56002: Flags [S], seq 1628803699, win 65535, options [mss 1460], length 0
+05:48:55.957123 IP 152.32.170.230.44331 > 165.227.43.214.8750: Flags [S], seq 3367892232, win 29200, options [mss 1412,sackOK,TS val 411283853 ecr 0,nop,wscale 7], length 0
+05:49:08.208876 IP 89.248.165.17.52265 > 165.227.43.214.45751: Flags [S], seq 3486909155, win 1025, options [mss 1460], length 0
+05:49:11.623528 IP 165.227.43.214.59598 > 169.254.169.254.80: Flags [S], seq 4121747537, win 64240, options [mss 1460,sackOK,TS val 958106395 ecr 0,nop,wscale 7], length 0
+05:49:11.624965 IP 169.254.169.254.80 > 165.227.43.214.59598: Flags [S.], seq 2879524749, ack 4121747538, win 65160, options [mss 1460,sackOK,TS val 4085276950 ecr 958106395,nop,wscale 7], length 0
+05:49:11.625021 IP 165.227.43.214.59598 > 169.254.169.254.80: Flags [.], ack 1, win 502, options [nop,nop,TS val 958106397 ecr 4085276950], length 0
+05:49:11.625208 IP 165.227.43.214.59598 > 169.254.169.254.80: Flags [P.], seq 1:2496, ack 1, win 502, options [nop,nop,TS val 958106397 ecr 4085276950], length 2495: HTTP: POST /v1/metrics/droplet_id/396577257 HTTP/1.1

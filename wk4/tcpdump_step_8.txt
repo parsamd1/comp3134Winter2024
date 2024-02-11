@@ -1,0 +1,15 @@
+05:50:30.537443 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 952337459:952337567, ack 2932604422, win 501, options [nop,nop,TS val 1405752188 ecr 260859822], length 108
+05:50:30.537559 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 108:196, ack 1, win 501, options [nop,nop,TS val 1405752188 ecr 260859822], length 88
+05:50:30.537594 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 196:264, ack 1, win 501, options [nop,nop,TS val 1405752188 ecr 260859822], length 68
+05:50:30.537635 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 264:332, ack 1, win 501, options [nop,nop,TS val 1405752188 ecr 260859822], length 68
+05:50:30.537673 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562: Flags [P.], seq 332:368, ack 1, win 501, options [nop,nop,TS val 1405752188 ecr 260859822], length 36
+05:50:30.545289 IP bras-base-toroon0268w-grc-64-70-50-27-35.dsl.bell.ca.56562 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 2694, options [nop,nop,TS val 260859831 ecr 1405752188], length 0
+05:50:45.059414 IP 198.235.24.49.51712 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.amqp: Flags [S], seq 2522849860, win 65535, options [mss 1460], length 0
+05:50:48.963182 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.41452 > 67.207.67.2.domain: Flags [S], seq 1751039525, win 64240, options [mss 1460,sackOK,TS val 1836072901 ecr 0,nop,wscale 7,tfo  cookiereq,nop,nop], length 0
+05:50:48.964496 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.41452: Flags [S.], seq 458591474, ack 1751039526, win 65160, options [mss 1460,sackOK,TS val 1617424260 ecr 1836072901,nop,wscale 9], length 0
+05:50:48.964547 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.41452 > 67.207.67.2.domain: Flags [.], ack 1, win 502, options [nop,nop,TS val 1836072902 ecr 1617424260], length 0
+05:50:48.964607 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.41452 > 67.207.67.2.domain: Flags [P.], seq 1:47, ack 1, win 502, options [nop,nop,TS val 1836072902 ecr 1617424260], length 46 4973+ PTR? 49.24.235.198.in-addr.arpa. (44)
+05:50:48.964837 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.41452: Flags [.], ack 47, win 128, options [nop,nop,TS val 1617424261 ecr 1836072902], length 0
+05:50:48.965853 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.41452: Flags [P.], seq 1:140, ack 47, win 128, options [nop,nop,TS val 1617424262 ecr 1836072902], length 139 4973 NXDomain 0/1/0 (137)
+05:50:48.965942 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.41452 > 67.207.67.2.domain: Flags [.], ack 140, win 501, options [nop,nop,TS val 1836072904 ecr 1617424262], length 0
+05:50:49.987539 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.41452 > 67.207.67.2.domain: Flags [P.], seq 47:91, ack 140, win 501, options [nop,nop,TS val 1836073925 ecr 1617424262], length 44 18161+ PTR? 2.67.207.67.in-addr.arpa. (42)
