@@ -1,0 +1,4 @@
+service sshd stop
+service sshd start
+
+ssh -p 2222 root@165.227.43.214
