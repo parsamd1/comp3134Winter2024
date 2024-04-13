@@ -1,0 +1,1 @@
+This URL reveals all the content on one of the top directories on the machine and the fact that it is accessed through URL and is open to public does not make it any safer.

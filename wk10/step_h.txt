@@ -1,0 +1,1 @@
+While copying html code into a php script file, I had to change the syntax a bit. For commenting in PHP I used the syntax of /* */.

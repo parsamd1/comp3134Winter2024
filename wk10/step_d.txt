@@ -1,0 +1,1 @@
+I see the warning that says it cannot scan the directory /var/www/html/directory_traversal_part1.php. This information is sensitive because it is accessed through URL and is open to public so everyone can figure out the absolute path to my php file on my machine.

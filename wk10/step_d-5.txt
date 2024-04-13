@@ -1,0 +1,1 @@
+This webpage reveals the content of one of the top directories of my machine and the fact that it is all accessed through URL and is open to public does not make it any safer.

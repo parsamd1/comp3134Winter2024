@@ -1,0 +1,1 @@
+I start by describing that the original path is the one that contains web files and whenever the user wants to access a folder above html folder, they face a "Access Denied" page.
