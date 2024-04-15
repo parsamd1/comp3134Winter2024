@@ -1,0 +1,3 @@
+1. Yes, the outcome is as expected. The query found me the information related to the firstname "Ben" and it printed it all out in a html table.
+2. No, I did not expect the result I got at all. So the result i got for "Ben'-- " was same as the one I got for "Ben".
+3. Yes, they are as expected which is "no results found".
